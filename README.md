@@ -7,7 +7,7 @@ Having recently decided on a career change I’m ready to follow on from the ste
 * Trello
 * Postman
 * Testlink
-* cos do robienia screenow, nagrywania filmikow
+* Jing
 # Tech skills
 * SQL
 * Software testing
