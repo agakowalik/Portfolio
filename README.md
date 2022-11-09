@@ -19,7 +19,7 @@ Having recently decided on a career change I’m ready to follow on from the ste
 * SQL cours
 * Training - Manual Tester
 # Books
-* Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
+* [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
 # Webinars
 # My test case examples
 # My bug reports
