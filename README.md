@@ -6,7 +6,7 @@ Having recently decided on a career change I’m ready to follow on from the ste
 * Mantis
 * Trello
 * Postman
-* Testlink
+* TestLink
 * Jing
 # Tech skills
 * SQL
