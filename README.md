@@ -22,6 +22,6 @@ Having recently decided on a career change I’m ready to follow on from the ste
 * [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
 # Webinars
 # Examples of my work
-* exploratory tests of PomodoroKanban aplication
+* exploratory testing in sessions (PomodoroKanban aplication)
   * [defects and reports](https://drive.google.com/drive/u/0/folders/17zWQ0xgQ4SnpGDhlpMZhQdiY26AMVcLC)
   * [recording of defects](https://drive.google.com/drive/u/0/folders/1L0l2j63QcR3fSOdmlxJJhj8jjbGV_JtJ)
