@@ -22,4 +22,5 @@ Having recently decided on a career change I’m ready to follow on from the ste
 * [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
 # Webinars
 # My test case examples
+* [testy eksploracyjne aplikacji - raporty, defekty, nagrania](https://drive.google.com/drive/u/0/folders/1QCFxZRCxwRqfHcESZ9pqM8Ct3YJPPEhq)
 # My bug reports
