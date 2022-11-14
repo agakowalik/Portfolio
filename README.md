@@ -23,7 +23,7 @@ Having recently decided on a career change I’m ready to follow on from the ste
 # Webinars
 # Examples of my work
 * exploratory testing in sessions (PomodoroKanban aplication)
-  * [defects and reports](https://drive.google.com/drive/u/0/folders/17zWQ0xgQ4SnpGDhlpMZhQdiY26AMVcLC)
+  * [defects and reports](https://drive.google.com/drive/folders/17zWQ0xgQ4SnpGDhlpMZhQdiY26AMVcLC?usp=sharing)
   * [recording of defects](https://drive.google.com/drive/u/0/folders/1L0l2j63QcR3fSOdmlxJJhj8jjbGV_JtJ)
 * preparation of test cases based on specification and reporting in the testing tool - TestLink
   * [list of test cases](https://drive.google.com/drive/u/0/folders/1VnQpFcs15iVIq2Kmi5p5_ZNgh8_qooat)
