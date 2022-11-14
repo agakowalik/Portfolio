@@ -28,3 +28,5 @@ Having recently decided on a career change I’m ready to follow on from the ste
 * preparation of test cases based on specification and reporting in the testing tool - TestLink
   * [list of test cases](https://drive.google.com/drive/u/0/folders/1VnQpFcs15iVIq2Kmi5p5_ZNgh8_qooat)
   * [sample test cases](https://drive.google.com/drive/u/0/folders/1fWEoNWvFhDre-sqG_tVeg4K5B1VcuTrH)
+* preparation of a set of test data needed to carry out the tests
+  * [test data set](https://drive.google.com/drive/u/0/folders/1EF2So4YCUkSDOhD5p7q08ASmFReC3L0U)
