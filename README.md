@@ -18,6 +18,8 @@ Having recently decided on a career change I’m ready to follow on from the ste
 # Courses
 * SQL cours
 * Training - Manual Tester
+# Webinars
+* Testowanie REST API dla początkujących, Bartosz Kita
 # Books
 * [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
 # Examples of my work
