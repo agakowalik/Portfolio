@@ -22,6 +22,7 @@ Having recently decided on a career change I’m ready to follow on from the ste
 * Testowanie REST API dla początkujących, Bartosz Kita
 # Books
 * [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
+* [Pasja testowania](https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm#format/d)
 # Examples of my work
 * exploratory testing in sessions (PomodoroKanban aplication)
   * [defects and reports](https://drive.google.com/drive/folders/17zWQ0xgQ4SnpGDhlpMZhQdiY26AMVcLC?usp=sharing)
