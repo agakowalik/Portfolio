@@ -7,7 +7,7 @@ Having recently decided on a career change I’m ready to follow on from the ste
 * Trello
 * Postman
 * TestLink
-* Jing
+* Excel/Google sheets
 # Tech skills
 * SQL
 * Software testing
