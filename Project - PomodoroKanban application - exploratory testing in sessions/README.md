@@ -15,3 +15,6 @@ All the records from the session were recorded in QuickTime Player.app
 # Tools
 * Excel Sheets
 * QuickTime Player.app
+# Environment
+* MacBook Air (13-inch, 2017)
+* macOS Mojave Wersja 10.14.6 (18G9323)
