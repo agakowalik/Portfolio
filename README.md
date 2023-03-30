@@ -13,7 +13,7 @@ Having recently decided on a career change I’m ready to follow on from the ste
 * Software testing
 * Creating test cases
 * Reporting bugs
-# Certyficates
+## Certyficates
 * ISTQB
 ## Courses
 * SQL cours
