@@ -1,6 +1,6 @@
 ## Project - chirurgiabednarska.pl - in progress
 
-The chirurgiabednarska.pl is a website where customers can register for medical services for a doctor of their choice.
+The chirurgiabednarska.pl is a website where customers can register for medical services for a doctors.
 
 ### Test cases
 The test cases were written in ExcelSheets, each test case was saved in a separate PDF file.
