@@ -9,6 +9,7 @@ All the errors I found were reported and described in the JIRA tool and exported
 ### Tools
 * Excel Sheets
 * Jira
+* Lightshot Screenshot
 ### Environment
 * MacBook Air (13-inch, 2017)
 * macOS Mojave Wersja 10.14.6 (18G9323)
