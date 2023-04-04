@@ -17,7 +17,7 @@ Having recently decided on a career change I’m ready to follow on from the ste
 * ISTQB
 ## Courses
 * SQL cours
-* Postman - testowanie REST API(https://www.udemy.com/certificate/UC-9cacc666-c011-4134-b98a-5ff7b6d9ea74/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
+* Postman - testowanie REST API (https://www.udemy.com/certificate/UC-9cacc666-c011-4134-b98a-5ff7b6d9ea74/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 * Training - Manual Tester
 ## Books
 * [Certyfikowany tester ISTQB. Poziom podstawowy, Adam Roman, Lucjan Stapp](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
